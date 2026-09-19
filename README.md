@@ -251,4 +251,4 @@ This repository serves as the official landing page for EssentialPIM. The softwa
 **Get the most recent version of EssentialPIM today!**
 
 ---
-**Last updated:** 2026-09-19 00:01:05 UTC
+**Last updated:** 2026-09-19 05:35:19 UTC
